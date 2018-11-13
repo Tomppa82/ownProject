@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/omaTehtava/omaTehtava/omaTehtava/omaTehtava.iml" filepath="$PROJECT_DIR$/omaTehtava/omaTehtava/omaTehtava/omaTehtava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ownProject.iml" filepath="$PROJECT_DIR$/.idea/ownProject.iml" />
+    </modules>
+  </component>
+</project>
